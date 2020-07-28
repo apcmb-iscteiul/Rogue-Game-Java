@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="pt.iscte.poo.rogue.box.Black" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/box/Black.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="142" width="150" x="378" y="379"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="pt.iscte.poo.rogue.RogueMain" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/RogueMain.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="106" width="130" x="1488" y="-516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="pt.iscte.poo.rogue.objects.Door" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/objects/Door.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="268" width="179" x="1867" y="379"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="pt.iscte.poo.rogue.box.Green" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/box/Green.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="142" width="150" x="568" y="379"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="pt.iscte.poo.rogue.Rogue" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/Rogue.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="610" width="268" x="2769" y="-516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="pt.iscte.poo.rogue.objects.Hero" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/objects/Hero.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="484" width="198" x="2849" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="pt.iscte.poo.rogue.objects.Thief" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/objects/Thief.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="376" width="198" x="1282" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="pt.iscte.poo.rogue.objects.Sword" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/objects/Sword.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="151" x="2086" y="379"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="pt.iscte.poo.rogue.objects.Skeleton" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/objects/Skeleton.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="170" x="1520" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="pt.iscte.poo.rogue.objects.Floor" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/objects/Floor.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="151" x="1138" y="379"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="pt.iscte.poo.rogue.objects.Wall" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/objects/Wall.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="151" x="1329" y="379"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="pt.iscte.poo.rogue.interfaces.AnimalInteract" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/interfaces/AnimalInteract.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="165" x="1520" y="1211"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="13" language="java" name="pt.iscte.poo.rogue.objects.Bat" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/objects/Bat.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="151" x="1730" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="pt.iscte.poo.rogue.objects.Trap" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/objects/Trap.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="160" width="151" x="2277" y="379"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="pt.iscte.poo.rogue.objects.Hammer" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/objects/Hammer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="151" x="2468" y="379"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="pt.iscte.poo.rogue.objects.Key" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/objects/Key.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="196" width="169" x="2659" y="379"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="pt.iscte.poo.rogue.box.RedGreen" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/box/RedGreen.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="150" x="758" y="379"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="pt.iscte.poo.rogue.objects.RogueObject" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/objects/RogueObject.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="195" width="244" x="1520" y="144"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="pt.iscte.poo.rogue.box.Red" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/box/Red.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="142" width="150" x="948" y="379"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="20" language="java" name="pt.iscte.poo.rogue.interfaces.Box" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/interfaces/Box.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="70" width="165" x="663" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="21" language="java" name="pt.iscte.poo.rogue.objects.Movables" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/objects/Movables.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="159" width="307" x="1520" y="379"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="22" language="java" name="pt.iscte.poo.rogue.interfaces.Interactable" 
+    project="Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002" 
+    file="/Rogue_POO2018_V1_0_PedroBrites_78752_DuarteRebelo_55002/src/pt/iscte/poo/rogue/interfaces/Interactable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="88" width="165" x="2147" y="687"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <generalization id="23">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <generalization id="24">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <realization id="25">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <realization id="26">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <generalization id="27">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <realization id="28">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <realization id="29">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <realization id="30">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <association id="32">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="33" name="INSTANCE"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <realization id="37">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <realization id="38">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <realization id="43">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <realization id="44">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="12"/>  
+  </realization>  
+  <generalization id="45">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <realization id="46">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <generalization id="48">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <association id="49">    
+    <bendpoint x="2858" y="144"/>    
+    <bendpoint x="2858" y="379"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="50" name="hero"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="52">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <generalization id="53">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <association id="54">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="55" name="objectMap"/>      
+      <multiplicity id="56" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="57">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <realization id="58">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <realization id="59">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="22"/>  
+  </realization>  
+  <generalization id="60">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="18"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
